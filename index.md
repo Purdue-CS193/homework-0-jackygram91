@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 ### Jack's first CS193 Homework
 
